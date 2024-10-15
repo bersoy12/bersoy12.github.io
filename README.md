@@ -1,10 +1,21 @@
 # bersoy12.github.io
 
 
-| word | meaning | sentence | synonyms | antonyms | reference |
-|---|---|---|---|---|---|
-| warm up | ısınmak |  |  |  |  |
-| cut out | kesmek / durdurmak |  |  |  |  |
-| cut off | kesmek / koparmak |  |  |  |  |
-| call off | iptal etmek |  |  |  |  |
-| memory | bellek |  |  |  |  |
+| word              | meaning                              | sentence                                                                                  | synonyms                       | antonyms                        | reference                    |
+|---                |---                                   |---                                                                                        |---                             |---                              |---                           |
+| warm up           | ısınmak                              | He started to warm up before the game to prevent injury.                                   | prepare, loosen up             | cool down                       | English-Turkish translation   |
+| cut out           | kesmek / durdurmak                   | She cut out sugar from her diet to stay healthy.                                           | remove, eliminate              | add, insert                     | English-Turkish translation   |
+| cut off           | kesmek / koparmak                    | The storm cut off the electricity in the entire neighborhood.                              | disconnect, sever              | connect, attach                 | English-Turkish translation   |
+| call off          | iptal etmek                          | They had to call off the meeting due to unforeseen circumstances.                          | cancel, abort                  | continue, proceed               | English-Turkish translation   |
+| memory            | bellek                               | The phone's memory was full, so he deleted some old files.                                 | recollection, retention        | forgetfulness, oblivion         | English-Turkish translation   |
+| exorbitant        | aşırı / fahiş                        | The price of the concert tickets was exorbitant, so we decided not to go.                  | excessive, outrageous          | reasonable, moderate            | Merriam-Webster Word of the Day |
+| scapegoat         | günah keçisi                         | The employee became the scapegoat for the company's poor performance last year.            | fall guy, victim               | persecutor, aggressor           | Merriam-Webster Word of the Day |
+| wonder            | merak etmek / hayranlık duymak       | She couldn’t help but wonder how they managed to solve the problem so quickly.              | marvel, question               | disregard, ignore               | Cambridge Word of the Day     |
+| whilom            | eski / bir zamanlar                  | The whilom king now lived as a simple farmer in the countryside.                           | former, bygone                 | current, present                | Merriam-Webster Word of the Day |
+| abdicate          | feragat etmek                        | The king decided to abdicate the throne in favor of his son.                               | resign, relinquish             | assume, take on                 | English-Turkish translation   |
+| opt out           | vazgeçmek / çekilmek                 | She decided to opt out of the event because of a scheduling conflict.                      | withdraw, bow out              | engage, participate             | English-Turkish translation   |
+| round-arched windows | yuvarlak kemerli pencereler        | The old building featured beautiful round-arched windows that added to its charm.          | -                              | -                               | Architectural terminology     |
+| stands out        | öne çıkmak / dikkat çekmek           | Her bright red dress really stands out in the crowd.                                       | be noticeable, be prominent    | blend in, be inconspicuous      | English-Turkish translation   |
+| turn the table    | durumu tersine çevirmek              | After losing the first half, the team managed to turn the table and win the game.           | reverse the situation          | maintain status quo             | English idiom                 |
+| to keep up with   | ayak uydurmak                        | He struggled to keep up with the fast pace of the new work environment.                    | match, stay on pace            | fall behind, lag                | English-Turkish translation   |
+
